@@ -1,0 +1,31 @@
+.text{
+    background-image: url("https://cdn.cbeditz.com/cbeditz/preview/plan-grey-powerpoint-background-images-4-11610970803buhvdlaevj.jpg");
+    height:100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+p{
+    font-weight: bold;
+  
+    padding:50px;
+    padding-top: 20px;
+}
+h2{
+    padding: 50px;
+    color:rgb(5, 16, 167)
+}
+.btn{
+    background-color: darkcyan;
+    font-weight: bold;
+    color: whitesmoke;
+    padding: 5px;
+    
+    border-radius: 5px;
+    text-decoration: none;
+    
+    
+}

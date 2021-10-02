@@ -1,0 +1,44 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-image: url("https://cdn.cbeditz.com/cbeditz/preview/plan-grey-powerpoint-background-images-4-11610970803buhvdlaevj.jpg");
+    height:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+td,th,table{
+    border: 3px solid rgb(29, 40, 78);
+    padding : 15px;
+    border-collapse: collapse;
+    font-size: larger;
+ }
+.table{
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+    
+ }
+td{
+    text-align: center;
+    font-size: large;
+}
+
+.button{
+    background-color: darkcyan;
+    font-weight: bold;
+    color: whitesmoke;
+    padding: 5px;
+    
+    border-radius: 5px;
+    text-decoration: none;
+    
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+ 
